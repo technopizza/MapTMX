@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="25">
+  <image source="../../Pictures/tileset1.png" width="160" height="160"/>
+  <tile id="5">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="impassable" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBg4CSABYCYD4jZCGB+qDpuApgfzTxBNLtwmQdiM0IxPx7z0NXhMk8YyV4hPOZRw7/IduHCIDcAABqdA/8=
+  </data>
+ </layer>
+</map>
